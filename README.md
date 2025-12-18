@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Engineer who likes to learn about many things.<br>Videogames enjoyer.<br>ML/AI enthusiast.<br>
+Software Engineer who likes to learn and take on challenges.<br>Videogames enjoyer.<br>ML/AI enthusiast.<br>
 
 
 # 💻 Tech Stack:
